@@ -6,9 +6,9 @@
 
 # Contact Me
 
-[Twitter](https://twitter.com/IAmRyanSquared)
-[E-Mail](mailto:ryan@hashbang.sh)
-[IRC](ircs://irc.hashbang.sh/#!) (look for "ryan")
+- [Twitter](https://twitter.com/IAmRyanSquared)
+- [E-Mail](mailto:ryan@hashbang.sh)
+- IRC at ircs://irc.hashbang.sh/#! (look for "ryan")
 
 # PGP Stuff
 
