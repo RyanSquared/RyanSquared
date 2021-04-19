@@ -1,7 +1,6 @@
 # RyanSquared // Ryan Heywood
 ### Cypherpunk chat protocol nerd
 
-- Lead developer @ [mediaPanel](https://github.com/mediapanel)
 - Admin @ [hashbang](https://github.com/hashbang)
 
 # Contact Me
