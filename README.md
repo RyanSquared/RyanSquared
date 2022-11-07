@@ -8,6 +8,7 @@
 - [E-Mail](mailto:me@ryansquared.pub)
 - IRC at ircs://irc.hashbang.sh/#! (look for "ryan")
 - Matrix at #!:hashbang.sh (look for @ryansquared:beeper.com)
+- Mastodon at <a rel="me" href="https://tilde.zone/@ryan">@ryan@tilde.zone</a>
 
 # PGP Stuff
 
